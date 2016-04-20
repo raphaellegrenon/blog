@@ -2,6 +2,7 @@
 layout: post
 title: Titre 2
 categories: [Histoires]
+tags: [Histoires, Raphie]
 comments: true
 ---
 

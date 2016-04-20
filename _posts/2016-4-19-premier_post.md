@@ -2,6 +2,7 @@
 layout: post
 title: Journée à l"école de Martine
 categories: [Histoires]
+tags: [Histoires]
 comments: true
 ---
 
