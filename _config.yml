@@ -1,18 +1,18 @@
 # Site settings
-title: PowerShell Escape
-description: 'a blog about Powershell, DevOps, and all things Microsoft and IT'
-url: 'http://mattmcnabb.github.io'
-#url: 'http://localhost:4000' 
+title: Blogue de Raphie
+description: 'Projet d"écriture colaborative. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+url: 'http://w3synack.github.io'
+#url: 'http://localhost:4000'
 baseurl: '/'
-google_analytics: 'UA-69802890-1'
-disqus_shortname: mattmcnabbgithubio
+#google_analytics: 'UA-69802890-1'
+disqus_shortname: raphieblog
 
 author:
-  name: 'Matt McNabb'
-  email: mmcnabb@outlook.com
-  twitter_username: mcnabbmh
-  github_username:  mattmcnabb
-  #linkedin_username:  
+  name: 'Raphaëlle Grenon'
+  email: jsgrenon@gmail.com
+#  twitter_username:
+  github_username:  w3synack
+  #linkedin_username:
 
 # Build settings
 destination: _site
