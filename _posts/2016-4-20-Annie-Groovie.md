@@ -13,3 +13,5 @@ C'est la personne qui fait les livre de Léon. J'ai adorée mon expérience parc
 J'ai eu un signet de Léon et signé également.
 
 Vous connaissez-vous les livres de Léon?
+
+![Leon](https://github.com/raphaellegrenon/raphaellegrenon.github.io/images/annie-groovie-leon.png "Leon")
