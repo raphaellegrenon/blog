@@ -6,8 +6,8 @@ tags: [Histoires]
 comments: true
 ---
 
-[
-##Ma première journée
+
+La première journée....
 
 Martine va à sa première journée à l'école. Martine est prête. Elle a son manteau, ses bottes, et son sac d'école. Dans l'autobus, elle est assise à côté d'un garçon qui s'appelle Charly. Charly à des yeux brun et des très long cheveux blond.
 
