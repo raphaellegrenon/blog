@@ -7,6 +7,8 @@ comments: true
 ---
 
 ![Leon](/images/leon-1.png "Leon")
+
+
 Visite de l'auteur Annie Groovie dans ma classe! C'est la personne qui fait les livre de Léon. J'ai adorée mon expérience parce que c'est la première fois que je la rencontre. Elle à signé une autographe pour mon frère parce que c'est sa fête aujourd'hui.
 
 J'ai eu un signet de Léon et signé également.
