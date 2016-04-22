@@ -7,10 +7,7 @@ comments: true
 ---
 
 
-La première journée. Martine va à sa première journée à l'école. Martine est prête. Elle a son manteau, ses bottes, et son sac d'école. Dans l'autobus, elle est assise à côté d'un garçon qui s'appelle Charly. Charly à des yeux brun et des très long cheveux blond.
-
-
-Martine va à sa première journée à l'école. Martine est prête. Elle a son manteau, ses bottes, et son sac d'école. Dans l'autobus, elle est assise à côté d'un garçon qui s'appelle Charly. Charly à des yeux brun et des très long cheveux blond.
+La première journée! Martine va à sa première journée à l'école. Martine est prête. Elle a son manteau, ses bottes, et son sac d'école. Dans l'autobus, elle est assise à côté d'un garçon qui s'appelle Charly. Charly à des yeux brun et des très long cheveux blond.
 
 Arrivé à l'école, elle se rend compte que Charly est dans sa classe. L'enseignante de Martine, s'appelle Jolyanne. Martine à adoré sa journée à l'école parce que son enseignante est super cool!
 
