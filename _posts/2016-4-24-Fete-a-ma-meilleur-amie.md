@@ -1,5 +1,4 @@
-
-    ---
+---
 layout: post
 title: Trop cool la fête de mon amie!
 categories: [Histoires]
