@@ -11,4 +11,4 @@ La première journée! Martine va à sa première journée à l'école. Martine 
 
 Arrivé à l'école, elle se rend compte que Charly est dans sa classe. L'enseignante de Martine, s'appelle Jolyanne. Martine à adoré sa journée à l'école parce que son enseignante est super cool!
 
-Le lendemain matin, Charly est une fois de plus assit à côté d'elle. Elle est très contente. Arrivé à lÉ,cole, la cloche sonne. Martin est la première dans le rang, Charly est en deuxième, il rentre donc ensemble dans l'école pour aller en classe.
+Le lendemain matin, Charly est une fois de plus assit à côté d'elle. Elle est très contente. Arrivé à l'école, la cloche sonne. Martine est la première dans le rang, Charly est en deuxième, il rentre donc ensemble dans l'école pour aller en classe.
