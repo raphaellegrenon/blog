@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Présenation de mon blogue à ma classe
+title: Présentation de mon blogue à ma classe
 categories: [Histoires]
 tags: [Histoires]
 comments: true
