@@ -9,4 +9,4 @@ comments: true
 
 On se retrouve la semaine prochaine, je vais vous compter comment cela c’est passé. 
 
-Pour voir ce qu'est NOte Rythm, cliquer ici : http://ici.radio-canada.ca/tele/Note-Rythme/2015/emission/concept
+Pour voir ce qu'est NoteRythme, [cliquer ici](http://ici.radio-canada.ca/tele/Note-Rythme/2015/emission/concept "NoteRythme, Radio-Canada")
