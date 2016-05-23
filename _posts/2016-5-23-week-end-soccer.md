@@ -12,4 +12,4 @@ J'ai arrêté un ballon, on a bien rigolé! Jolan a apprit des techniques à mon
 Aujourd'hui j'ai eu des gants de soccer et j'ai pu les essayer! Nous avons passé un beau week-end de soccer!
 
 
-![Gant de soccer!](/images/raphie_gant_soccer.jpg "Gant de soccer")
+![Gant de soccer!](/images/raphie_gant-soccer.jpg "Gant de soccer")
