@@ -33,5 +33,5 @@ Je suis aussi allez au restaurant de l'hôtel, le Bercail. J'ai mangé un grille
 
 J'ai aussi rencontré un ami en jouant au soccer, il s'appelait Yoan. Il était super gentil, et à pris e temps de nous montré des trucs au soccer, comme des jongleries, passe avec le pied et des vrai beau botté-dégage!
 
-Trop cool Baie-Saint-Cool!
+Trop cool Baie-Saint-Cool!!!
 
