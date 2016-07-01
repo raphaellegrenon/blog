@@ -5,6 +5,7 @@ categories: [Histoires]
 tags: [Histoires, Raphie]
 comments: true
 ---
+![Hôtel le Germain Charlevoix](/images/hotel.jpg "Hôtel Le Germain Charlevoix")
 
 Quel beau Week-end à Baie-Saint-Paul avec ma famille. Je suis allé à l'hôtel Le Germain Charlevoix. Il y avait une grande ferme avec des animaux. Il y avait une sorte de vache avec des cornes et une drôle de face! 
 
@@ -24,6 +25,9 @@ Nous avons échangé nos numéros de téléphone pour se revoir. On a bien rigol
 
 
 La chambre que nous avions était super jolie, il y avait des lits superposés pour notre plus grand plaisir, à mon frère et moi. Des fois je me reposais en haut avec mon frère. 
+
+![Lits](/images/lits.jpg "Lits")
+
 
 Je suis aussi allez au restaurant de l'hôtel, le Bercail. J'ai mangé un grilled-cheese la première journée, et la deuxième, une bonne pizza garnie! Que c'était bon!
 
