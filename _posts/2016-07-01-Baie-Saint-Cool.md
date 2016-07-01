@@ -5,9 +5,13 @@ categories: [Histoires]
 tags: [Histoires, Raphie]
 comments: true
 ---
+Quel beau Week-end à Baie-Saint-Paul avec ma famille! Je suis allé à l'hôtel Le Germain Charlevoix.
+
+
 ![Hôtel le Germain Charlevoix](/images/hotel.jpg "Hôtel Le Germain Charlevoix")
 
-Quel beau Week-end à Baie-Saint-Paul avec ma famille! Je suis allé à l'hôtel Le Germain Charlevoix. Il y avait une grande ferme avec des animaux. Il y avait une sorte de vache avec des cornes et une drôle de face! 
+
+Il y avait une grande ferme avec des animaux. Il y avait une sorte de vache avec des cornes et une drôle de face! 
 
 
 ![Vache Highland](/images/vache_charlevoix.jpg "Vache Highland")
@@ -34,4 +38,3 @@ Je suis aussi allez au restaurant de l'hôtel, le Bercail. J'ai mangé un grille
 J'ai aussi rencontré un ami en jouant au soccer, il s'appelait Yoan. Il était super gentil, et a pris le temps de nous montrer des trucs au soccer, comme des jongleries, passes avec le pied et des vrais beau botté-dégage!
 
 Trop cool Baie-Saint-Cool!!!
-
