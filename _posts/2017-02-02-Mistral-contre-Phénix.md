@@ -7,6 +7,7 @@ comments: true
 ---
 
 En fin de semaine passé, j'ai vécu la plus extraordinaire activité sportive! Avec mon équipe, Mistral U11F, on a gagné contre Phénix U11F, 4 à 0.  
+
 Nous étions seulement 7 joueuses, contre 12 pour Phénix. Il n'y avait donc pas de changement possible pour nous, tandis que eux était capable de faire 
 un changement d'équipe presqu'au complet quand les joueuses étaient fatigués.
 
